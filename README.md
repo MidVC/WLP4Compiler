@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a compiler that converts WLP4 (a subset of the WLP language) code into MIPS machine code. The compilation process involves multiple steps, including scanning, parsing, semantic analysis, assembly language generation, and binary machine code creation. This README outlines the usage, installation, and contribution guidelines for the compiler.
+This project is a compiler that converts WLP4 (a subset of C) code into MIPS machine code. The compilation process involves multiple steps, including scanning, parsing, semantic analysis, assembly language generation, and binary machine code creation. This README outlines the usage, installation, and contribution guidelines for the compiler.
 
 ## Features
 
